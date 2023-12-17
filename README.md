@@ -1,3 +1,4 @@
+![A5E138C8-2D5F-42D8-8EFD-66C9C71D99DF](https://github.com/IshmamDC217/MarioKartSL/assets/89687266/ec970b27-893d-44bb-ba67-d44883978419)
 # Mario Kart Start Lights Simulation 🏎️🚦
 
 ## Introduction 🌟
